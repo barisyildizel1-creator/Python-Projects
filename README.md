@@ -1,6 +1,8 @@
-# Python Projects# Morse Code Translator
+# My Learning Python Projects# Python Projects# Morse Code Translator
 
 
+
+This repository contains my Python learning projects.
 
 Welcome to my Python Projects repository! This is a collection of various Python programs and scripts I've created while learning and practicing Python programming.A simple Python program that can encrypt text to Morse code and decrypt Morse code back to text.
 
